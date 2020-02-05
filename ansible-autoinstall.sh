@@ -15,6 +15,6 @@ sudo apt-get install python -y
 
 #Install Pip3
 echo "Install Pip3"
-sudo apt install python3-pip
+sudo apt install python3-pip -y
 
 echo pip3 --version
